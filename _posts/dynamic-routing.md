@@ -2,7 +2,7 @@
 title: "ยินดีต้อนรับสู่กลุ่มของเรา"
 excerpt: "พวกเราคือ 5way กลุ่มผู้หลงใหลในนวัตกรรมและความคิดสร้างสรรค์ มุ่งมั่นที่จะจุดประกายไฟฝัน สนับสนุนให้ทุกคนสามารถนำไอเดียสุดเจ๋งมาต่อยอดเป็น IDEA ที่ประสบความสำเร็จ"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-07-02T05:35:07.322Z"
 author:
   name: karitthorn
   picture: "/assets/blog/authors/jj.jpeg"
