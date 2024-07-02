@@ -1,19 +1,39 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "ยินดีต้อนรับสู่กลุ่มของเรา"
+excerpt: "พวกเราคือ 5way กลุ่มผู้หลงใหลในนวัตกรรมและความคิดสร้างสรรค์ มุ่งมั่นที่จะจุดประกายไฟฝัน สนับสนุนให้ทุกคนสามารถนำไอเดียสุดเจ๋งมาต่อยอดเป็น IDEA ที่ประสบความสำเร็จ"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: karitthorn
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 
-## Lorem Ipsum
+## Intro
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+พวกเราคือ 5way กลุ่มผู้หลงใหลในนวัตกรรมและความคิดสร้างสรรค์ มุ่งมั่นที่จะจุดประกายไฟฝัน สนับสนุนให้ทุกคนสามารถนำไอเดียสุดเจ๋งมาต่อยอดเป็น Startup ที่ประสบความสำเร็จ
+
+ในโลกยุคดิจิทัลที่เต็มไปด้วยโอกาส การเริ่มต้นธุรกิจ Startup เปรียบเสมือนการผจญภัยบนเส้นทางที่ทั้งท้าทายและน่าตื่นเต้น 5way เข้าใจดีถึงความยากลำบากและอุปสรรคที่ผู้ประกอบการ Startup เผชิญ
+
+ด้วยเหตุนี้ เราจึงมุ่งมั่นที่จะเป็นพันธมิตรที่คอยเคียงข้างทุกย่างก้าว
+
+จุดประกายความคิด: กระตุ้นให้เกิดไอเดียใหม่ ๆ ผ่านเวทีเสวนา เวิร์คช็อป และกิจกรรมสร้างสรรค์หลากหลายรูปแบบ
+สนับสนุนการต่อยอด: ให้คำปรึกษา แนะนำแนวทาง และช่วยเหลือผู้ประกอบการ Startup ในทุกขั้นตอน ตั้งแต่การวางแผน พัฒนา prototype ไปจนถึงการระดมทุน
+สร้างเครือข่าย: เชื่อมต่อผู้ประกอบการ Startup กับนักลงทุน ผู้เชี่ยวชาญ และพันธมิตรทางธุรกิจ
+แบ่งปันความรู้: นำเสนอเนื้อหาสาระ บทความ และแหล่งข้อมูลที่เป็นประโยชน์ต่อผู้ประกอบการ Startup
+สร้างแรงบันดาลใจ: แชร์เรื่องราวความสำเร็จ และประสบการณ์จาก Startup ที่ประสบความสำเร็จ
+5way คือพื้นที่สำหรับผู้ฝันใฝ่
+
+ไม่ว่าคุณจะเป็นนักศึกษา บุคคลทั่วไป หรือผู้ประกอบการที่อยากเริ่มต้นธุรกิจ 5way ยินดีต้อนรับทุกคนเข้าสู่อ้อมกอดของเรา
+
+ร่วมเป็นส่วนหนึ่งของชุมชนผู้สร้างสรรค์
+
+ติดตามข่าวสาร กิจกรรม และแหล่งข้อมูลที่เป็นประโยชน์ได้ที่:
+
+เว็บไซต์: 5way
+
+
+มาร่วมจุดประกายไฟฝัน สู่ Startup ที่ประสบความสำเร็จกันเถอะ!

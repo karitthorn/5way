@@ -22,6 +22,7 @@ export function HeroPost({
   slug,
 }: Props) {
   return (
+    <>
     <section>
       <div className="mb-8 md:mb-16">
         <CoverImage title={title} src={coverImage} slug={slug} />
@@ -43,5 +44,6 @@ export function HeroPost({
         </div>
       </div>
     </section>
+    </>
   );
 }
