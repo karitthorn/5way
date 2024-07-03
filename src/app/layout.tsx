@@ -11,8 +11,8 @@ const inter = Prompt({   weight: "400",
 subsets: ["thai"], });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `5ways`,
+  description: `พวกเราคือ 5ways กลุ่มผู้หลงใหลในนวัตกรรมโดยมาจาก 5 สายการเรียน`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
