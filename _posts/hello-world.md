@@ -1,19 +1,37 @@
 ---
 title: "เเนะนำตัว คนในทีม"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "ทำความรู้จักกับทีม 5way"
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-07-01T05:35:07.322Z"
 author:
-  name: Tim Neutkens
-  picture: "/assets/blog/authors/tim.jpeg"
+  name: 5ways.
+  picture: "/assets/blog/authors/bill.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
+![img](https://cdn.discordapp.com/attachments/1258043607802450034/1258044622907768952/8F18BF17-CE5C-4AEA-8248-2D9E51963DF7_1_105_c.jpeg?ex=66869cdb&is=66854b5b&hm=549dc19c13dffc81bb888fdcf4d6163fac1068e0b62bdd657255a3beeb321c1a&)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## Karitthorn Bamrungpipattanporn
+ - web developer
+ - student computer engineer at Kasetsat University Bangkok
+ - Github : https://github.com/karitthorn
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+![](https://media.discordapp.net/attachments/1258043607802450034/1258045523806650378/PXL_20240703_130310215.jpg?ex=66869db2&is=66854c32&hm=862b63d46d0d8d8625312946d2e67dc3ef37f2db74b8280f7c3054ac5b680af0&=&format=webp&width=853&height=1137)
+## theerapong mungcharoen
+ - foodsci
+ - Kasetsat University Bangkok
 
-## Lorem Ipsum
+![](https://media.discordapp.net/attachments/1258043607802450034/1258047585407471736/IMG_1525.jpg?ex=66869f9d&is=66854e1d&hm=756ec3c7a18c8317175c7be6f6e368ce81c7cb54dff86de423899e9709c83ee0&=&format=webp&width=473&height=629)
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## phetlada nakhonkumsing
+ - Humanities
+ - Kasetsat University Bangkok
+![](https://media.discordapp.net/attachments/1258043607802450034/1258046149084840037/1691486691076.jpg?ex=66869e47&is=66854cc7&hm=dd160622016c07973a2865797d42f6090fece486dd70d0825c3211b5db21ada6&=&format=webp&width=853&height=1137)
+## lullalil Jupanich
+ - social 
+ - Kasetsat University Bangkok
+
+![](https://media.discordapp.net/attachments/1258043607802450034/1258047846750355456/0DFCD6BA-7815-45EC-8557-A1633BCA1BA5.jpg?ex=66869fdc&is=66854e5c&hm=8982756ac34c850cd47cf1a4b2da1899b002bb25a8cbb861265fd6c60ac511d5&=&format=webp&width=660&height=1135)
+## Piyathida Pinsuwan
+- Business School
+- Kasetsat University Bangkok
