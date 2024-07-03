@@ -1,7 +1,7 @@
 ---
 title: "ติดต่อเรา"
-excerpt: "สามารถ"
-date: "2020-03-16T05:35:07.322Z"
+excerpt: "สามารถติดต่อเราได้ตาม Email นี้"
+date: "2020-07-16T05:35:07.322Z"
 coverImage: "/assets/blog/preview/cover.jpg"
 author:
   name: Joe Haddad
